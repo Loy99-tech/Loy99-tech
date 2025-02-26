@@ -1,4 +1,4 @@
-- 👋 Hey there!I’m Loyce Abuto, @Loy99-tech.
+- 👋 Hey there!I’m Loyce Abuto, @lLoyce.Abuto.
 - 👀Aspiring cybersecurity expert, Tech enthusiant and a lifelong learner. I’m interested in exloring network security, ethical hacking and secure coding.
 - 🌱 I’m currently learning programming with focus on cybersecurity
 - 💞️ I’m looking to collaborate on cyersecurity projects, secure coding practices and ethicak hacking challenges
